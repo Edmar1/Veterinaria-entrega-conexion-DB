@@ -1,0 +1,90 @@
+C:\Users\Usuario\source\repos\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.deps.json
+C:\Users\Usuario\source\repos\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.dll
+C:\Users\Usuario\source\repos\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.pdb
+C:\Users\Usuario\source\repos\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.dll
+C:\Users\Usuario\source\repos\Veterinaria\lib_repositorios\obj\Debug\net8.0\refint\lib_repositorios.dll
+C:\Users\Usuario\source\repos\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.pdb
+C:\Users\Usuario\source\repos\Veterinaria\lib_repositorios\obj\Debug\net8.0\ref\lib_repositorios.dll
+C:\Users\Usuario\source\repos\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_dominio.dll
+C:\Users\Usuario\source\repos\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_dominio.pdb
+C:\Users\Usuario\source\repos\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repo.695687AF.Up2Date
+C:\Users\Usuario\Desktop\Veterinaria (1)\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.deps.json
+C:\Users\Usuario\Desktop\Veterinaria (1)\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.dll
+C:\Users\Usuario\Desktop\Veterinaria (1)\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.pdb
+C:\Users\Usuario\Desktop\Veterinaria (1)\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_dominio.dll
+C:\Users\Usuario\Desktop\Veterinaria (1)\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_dominio.pdb
+C:\Users\Usuario\Desktop\Veterinaria (1)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Veterinaria (1)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Veterinaria (1)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Veterinaria (1)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Veterinaria (1)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Veterinaria (1)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repo.695687AF.Up2Date
+C:\Users\Usuario\Desktop\Veterinaria (1)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.dll
+C:\Users\Usuario\Desktop\Veterinaria (1)\Veterinaria\lib_repositorios\obj\Debug\net8.0\refint\lib_repositorios.dll
+C:\Users\Usuario\Desktop\Veterinaria (1)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.pdb
+C:\Users\Usuario\Desktop\Veterinaria (1)\Veterinaria\lib_repositorios\obj\Debug\net8.0\ref\lib_repositorios.dll
+C:\Users\Usuario\source\repos\Veterinaria\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.deps.json
+C:\Users\Usuario\source\repos\Veterinaria\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.dll
+C:\Users\Usuario\source\repos\Veterinaria\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.pdb
+C:\Users\Usuario\source\repos\Veterinaria\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_dominio.dll
+C:\Users\Usuario\source\repos\Veterinaria\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_dominio.pdb
+C:\Users\Usuario\source\repos\Veterinaria\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Veterinaria\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Veterinaria\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Veterinaria\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Veterinaria\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Veterinaria\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repo.695687AF.Up2Date
+C:\Users\Usuario\source\repos\Veterinaria\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.dll
+C:\Users\Usuario\source\repos\Veterinaria\Veterinaria\lib_repositorios\obj\Debug\net8.0\refint\lib_repositorios.dll
+C:\Users\Usuario\source\repos\Veterinaria\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.pdb
+C:\Users\Usuario\source\repos\Veterinaria\Veterinaria\lib_repositorios\obj\Debug\net8.0\ref\lib_repositorios.dll
+C:\Users\Usuario\Desktop\Veterinaria001 (2)\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.deps.json
+C:\Users\Usuario\Desktop\Veterinaria001 (2)\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.dll
+C:\Users\Usuario\Desktop\Veterinaria001 (2)\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.pdb
+C:\Users\Usuario\Desktop\Veterinaria001 (2)\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_dominio.dll
+C:\Users\Usuario\Desktop\Veterinaria001 (2)\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_dominio.pdb
+C:\Users\Usuario\Desktop\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repo.695687AF.Up2Date
+C:\Users\Usuario\Desktop\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.dll
+C:\Users\Usuario\Desktop\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\refint\lib_repositorios.dll
+C:\Users\Usuario\Desktop\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.pdb
+C:\Users\Usuario\Desktop\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\ref\lib_repositorios.dll
+C:\Users\Usuario\Downloads\Veterinaria001 (2)\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.deps.json
+C:\Users\Usuario\Downloads\Veterinaria001 (2)\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.dll
+C:\Users\Usuario\Downloads\Veterinaria001 (2)\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.pdb
+C:\Users\Usuario\Downloads\Veterinaria001 (2)\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_dominio.dll
+C:\Users\Usuario\Downloads\Veterinaria001 (2)\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_dominio.pdb
+C:\Users\Usuario\Downloads\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repo.695687AF.Up2Date
+C:\Users\Usuario\Downloads\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.dll
+C:\Users\Usuario\Downloads\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\refint\lib_repositorios.dll
+C:\Users\Usuario\Downloads\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.pdb
+C:\Users\Usuario\Downloads\Veterinaria001 (2)\Veterinaria\lib_repositorios\obj\Debug\net8.0\ref\lib_repositorios.dll
+C:\Users\Usuario\Desktop\VeterinariaFINAL\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.deps.json
+C:\Users\Usuario\Desktop\VeterinariaFINAL\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.dll
+C:\Users\Usuario\Desktop\VeterinariaFINAL\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_repositorios.pdb
+C:\Users\Usuario\Desktop\VeterinariaFINAL\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_dominio.dll
+C:\Users\Usuario\Desktop\VeterinariaFINAL\Veterinaria\lib_repositorios\bin\Debug\net8.0\lib_dominio.pdb
+C:\Users\Usuario\Desktop\VeterinariaFINAL\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\VeterinariaFINAL\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\VeterinariaFINAL\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\VeterinariaFINAL\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\VeterinariaFINAL\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\VeterinariaFINAL\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repo.695687AF.Up2Date
+C:\Users\Usuario\Desktop\VeterinariaFINAL\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.dll
+C:\Users\Usuario\Desktop\VeterinariaFINAL\Veterinaria\lib_repositorios\obj\Debug\net8.0\refint\lib_repositorios.dll
+C:\Users\Usuario\Desktop\VeterinariaFINAL\Veterinaria\lib_repositorios\obj\Debug\net8.0\lib_repositorios.pdb
+C:\Users\Usuario\Desktop\VeterinariaFINAL\Veterinaria\lib_repositorios\obj\Debug\net8.0\ref\lib_repositorios.dll

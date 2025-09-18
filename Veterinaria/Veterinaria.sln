@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Presentaciones", "1. Presentaciones", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Servicios", "2. Servicios", "{369CB01D-A1A7-72D2-AABC-3F0945D148A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib_repositorios", "lib_repositorios\lib_repositorios.csproj", "{27BA6AC8-10D6-4757-B478-596D5C54F30A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27BA6AC8-10D6-4757-B478-596D5C54F30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BA6AC8-10D6-4757-B478-596D5C54F30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BA6AC8-10D6-4757-B478-596D5C54F30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BA6AC8-10D6-4757-B478-596D5C54F30A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{27BA6AC8-10D6-4757-B478-596D5C54F30A} = {369CB01D-A1A7-72D2-AABC-3F0945D148A2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39AD5461-65F9-4E81-8F54-E1B9FC142F73}
+	EndGlobalSection
+EndGlobal

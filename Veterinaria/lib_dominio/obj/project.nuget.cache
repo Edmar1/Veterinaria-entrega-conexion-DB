@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5IyDj0KAsvE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\VeterinariaFINAL\\Veterinaria\\lib_dominio\\lib_dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
